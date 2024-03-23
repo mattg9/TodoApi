@@ -6,6 +6,8 @@
 # Custom additions
 bin/
 obj/
+*.dll
+*.exe
 
 # dotenv files
 .env
